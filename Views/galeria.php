@@ -1,0 +1,3 @@
+galeria de fotos... 
+
+aqui abaixo estão as <?php echo $quantidadeFotos; ?>
